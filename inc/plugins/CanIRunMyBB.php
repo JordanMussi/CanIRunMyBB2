@@ -25,7 +25,7 @@ function CanIRunMyBB_info()
 		'author'		=> 'Jordan Mussi',
 		'authorsite'	=> 'https://jordanmussi.github.io',
 		'guid'			=> '',
-		'version'		=> '1.1',
+		'version'		=> '1.2',
 		'compatibility' => '*'
 	);
 }
