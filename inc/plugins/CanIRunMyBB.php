@@ -14,7 +14,7 @@ if(!defined('IN_MYBB'))
 	die('Direct initialization of this file is not allowed.<br /><br />Please make sure IN_MYBB is defined.<br /><br /><a href="http://docs.mybb.com/Free_never_tasted_so_good.html" title="Free never tasted so good" target="_blank">Free never tasted so good!</a>');
 }
 
-define('MYBB2_PHP_VERSION', '5.5.9');
+define('MYBB2_PHP_VERSION', '7.0.0');
 
 function CanIRunMyBB_info()
 {
